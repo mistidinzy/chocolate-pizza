@@ -15,7 +15,6 @@ h1{
   font-family: 'Yellowtail', cursive;
 }
 
-
 .hr1{
   height: 10px;
   background-color: rgba(0, 0, 0, 0.267); 
@@ -28,7 +27,6 @@ h2{
 ul{
   list-style-type: none;
 }
-
 
 #imgDIV{
   position: relative;
@@ -44,7 +42,6 @@ ul{
 }
 
 #leftList{
-
   float: left;
 }
 
@@ -54,10 +51,6 @@ ul{
 
 footer{
   margin-bottom: 50px;
-}
-
-#vanImg{
-  float: left;
 }
 
 #vanInfo{
