@@ -1,0 +1,69 @@
+*{
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body{
+  width: 1200px;
+}
+
+header *{
+  display: inline-block;
+}
+
+h1{
+  font-family: 'Yellowtail', cursive;
+}
+
+
+.hr1{
+  height: 10px;
+  background-color: rgba(0, 0, 0, 0.267); 
+}
+
+h2{
+  font-family: la;
+}
+
+ul{
+  list-style-type: none;
+}
+
+
+#imgDIV{
+  position: relative;
+  z-index: -1;
+}
+
+#ingredientDIV{
+  position: absolute;
+  width: 900px;
+  z-index: 1;
+  font-family:cursive;
+  font-size: 20px;
+}
+
+#leftList{
+
+  float: left;
+}
+
+#rightList{
+  float: right;
+}
+
+footer{
+  margin-bottom: 50px;
+}
+
+#vanImg{
+  float: left;
+}
+
+#vanInfo{
+  margin-bottom: 80px;
+}
+
+.copyright{
+  text-align: center;
+}
